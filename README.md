@@ -14,6 +14,7 @@ It was created just for my convenience and will contain select pull requests fro
 
 1st merge: Update README to include instructions for .en models — https://github.com/openai/whisper/pull/248
 
+2nd merge: infer download_root from XDG_CACHE_HOME if avail — https://github.com/openai/whisper/pull/257
 
 ## Approach
 
