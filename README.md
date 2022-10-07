@@ -8,6 +8,13 @@
 Whisper is a general-purpose speech recognition model. It is trained on a large dataset of diverse audio and is also a multi-task model that can perform multilingual speech recognition as well as speech translation and language identification.
 
 
+## About this fork
+
+It was created just for my convenience and will contain select pull requests from the original repo.
+
+1st merge: Update README to include instructions for .en models — https://github.com/openai/whisper/pull/248
+
+
 ## Approach
 
 ![Approach](approach.png)
